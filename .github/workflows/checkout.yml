@@ -7,3 +7,5 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+packages: |
+  pytest==6.1.2
