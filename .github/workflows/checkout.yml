@@ -8,4 +8,4 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
         with:
-          packages: pytest==6.1.2
+         
